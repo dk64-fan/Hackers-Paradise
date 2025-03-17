@@ -4,6 +4,7 @@ Overview:
 
 Instructions:
 	The script will require administrator privileges to run. When you run the program, select an option listed on the main menu, and then follow the intructions on screen. Feel free to leave feature requests or report bugs on the Github page.
+
 Credits:
 	I wrote most of the code for this script, but others played a huge role in making this happen.
 	A few users on Stack Overflow provided useful information on the Batch language in general.
