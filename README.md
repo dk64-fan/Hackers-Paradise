@@ -10,12 +10,3 @@ Credits:
 	Several WikiHow guides on Batch gave me the information I needed.
 	A huge thanks to johnsoupir (https://github.com/johnsoupir) on Github for creating the ASCII Rickroll sequence (I don't have the time to create all that ASCII Art).
 	Also, the text to ASCII Art converter at https://patorjk.com/software/taag allowed me to create the Hackers' Paradise Art on the main menu.
-
-
-  ______ _                    _      _                  
- (_) |  | |                  | |    (_|   |             
-     |  | |     __,   _  _   | |      |   |  __         
-   _ |  |/ \   /  |  / |/ |  |/_)     |   | /  \_|   |  
-  (_/   |   |_/\_/|_/  |  |_/| \_/     \_/|/\__/  \_/|_/
-                                         /|             
-                                         \|             
